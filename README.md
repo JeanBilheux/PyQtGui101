@@ -1,4 +1,7 @@
 # PyQtGui101
 Everything to get up to speed about developping a PyQt application
 
-The wiki page of this repo will take you on a journey to the wonderful of pyqt developing. We will implement an application that will load a TIFF file and display it into a matplotlib plot.
+The [wiki page](https://github.com/JeanBilheux/PyQtGui101/wiki) will take you on a journey to the wonderful world of **pyqt development**. 
+
+Our goal is to develop a simple application that load a TIFF file and display its image inside matplolib plot
+
